@@ -1,0 +1,1 @@
+export const GET_CV = "GET_CV"
